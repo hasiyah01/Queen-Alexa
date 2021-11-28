@@ -45,7 +45,7 @@ WhatsApp Bot
 
 ## `CHANGE DYNO`
 
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
+Off in web ny | ඔෆ් කranna web එක | turn off web button.
 
 ----------
 
